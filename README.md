@@ -41,7 +41,7 @@ REACT_APP_API_BASE_URL=https://69f8ea15f7044aa0103ea3da.mockapi.io/api
 
 ## Live
 
-Deployment Link:
+Deployment Link: https://edutech-eosin-omega.vercel.app/
 
 ---
 
