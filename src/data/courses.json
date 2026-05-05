@@ -1,0 +1,30 @@
+[
+  { "id": 1, "name": "React Basics", "instructor": "Ravi Kumar", "duration": "4 weeks", "category": "Frontend", "rating": 4.5 },
+  { "id": 2, "name": "Advanced JavaScript", "instructor": "Priya Sharma", "duration": "6 weeks", "category": "Programming", "rating": 4.8 },
+  { "id": 3, "name": "UI/UX Design", "instructor": "Ananya Reddy", "duration": "3 weeks", "category": "Design", "rating": 4.2 },
+  { "id": 4, "name": "Node.js Mastery", "instructor": "Arjun Mehta", "duration": "5 weeks", "category": "Backend", "rating": 4.6 },
+
+  { "id": 5, "name": "HTML & CSS Fundamentals", "instructor": "Kiran Patel", "duration": "2 weeks", "category": "Frontend", "rating": 4.1 },
+  { "id": 6, "name": "React Advanced Patterns", "instructor": "Ravi Kumar", "duration": "5 weeks", "category": "Frontend", "rating": 4.7 },
+  { "id": 7, "name": "TypeScript Essentials", "instructor": "Priya Sharma", "duration": "4 weeks", "category": "Programming", "rating": 4.6 },
+  { "id": 8, "name": "MongoDB Basics", "instructor": "Arjun Mehta", "duration": "3 weeks", "category": "Backend", "rating": 4.3 },
+  { "id": 9, "name": "Figma for Beginners", "instructor": "Ananya Reddy", "duration": "2 weeks", "category": "Design", "rating": 4.0 },
+  { "id": 10, "name": "Next.js Crash Course", "instructor": "Kiran Patel", "duration": "4 weeks", "category": "Frontend", "rating": 4.5 },
+
+  { "id": 11, "name": "GraphQL Basics", "instructor": "Priya Sharma", "duration": "3 weeks", "category": "Backend", "rating": 4.4 },
+  { "id": 12, "name": "Redux Toolkit Guide", "instructor": "Ravi Kumar", "duration": "3 weeks", "category": "Frontend", "rating": 4.3 },
+  { "id": 13, "name": "System Design Intro", "instructor": "Arjun Mehta", "duration": "6 weeks", "category": "Programming", "rating": 4.7 },
+  { "id": 14, "name": "Responsive Web Design", "instructor": "Kiran Patel", "duration": "2 weeks", "category": "Frontend", "rating": 4.2 },
+  { "id": 15, "name": "API Design Fundamentals", "instructor": "Priya Sharma", "duration": "4 weeks", "category": "Backend", "rating": 4.5 },
+
+  { "id": 16, "name": "Data Structures in JS", "instructor": "Ravi Kumar", "duration": "5 weeks", "category": "Programming", "rating": 4.8 },
+  { "id": 17, "name": "CSS Flexbox & Grid", "instructor": "Kiran Patel", "duration": "3 weeks", "category": "Frontend", "rating": 4.4 },
+  { "id": 18, "name": "Authentication with JWT", "instructor": "Arjun Mehta", "duration": "4 weeks", "category": "Backend", "rating": 4.6 },
+  { "id": 19, "name": "Design Systems Basics", "instructor": "Ananya Reddy", "duration": "3 weeks", "category": "Design", "rating": 4.3 },
+  { "id": 20, "name": "Performance Optimization", "instructor": "Ravi Kumar", "duration": "4 weeks", "category": "Programming", "rating": 4.7 },
+
+  { "id": 21, "name": "React Testing Library", "instructor": "Priya Sharma", "duration": "3 weeks", "category": "Frontend", "rating": 4.5 },
+  { "id": 22, "name": "Docker for Beginners", "instructor": "Arjun Mehta", "duration": "4 weeks", "category": "Backend", "rating": 4.4 },
+  { "id": 23, "name": "Accessibility in Web", "instructor": "Ananya Reddy", "duration": "2 weeks", "category": "Design", "rating": 4.2 },
+  { "id": 24, "name": "JavaScript Deep Dive", "instructor": "Ravi Kumar", "duration": "6 weeks", "category": "Programming", "rating": 4.9 }
+]
